@@ -1,18 +1,30 @@
 
-
 The data
 --------
 
 Training and test data are available in directories train and test.
 
 Measurements are stored in the files X_train.txt and X_test.txt
+
 Names of all measuremets are stored in the file features.txt
 
 Data for the 30 subjects is stored in the files subject_train.txt and subject_test.txt
 
 Class labels are stored in the files Y_train.txt and Y_test.txt
+
 Activity names are stored in the file activity_labels.txt
+
 Each activity name corresponds to a class label 1-6.
+
+There are 6 activities:
+"walking"
+"walking_upstairs"
+"walking_downstairs"
+"sitting"
+"standing"
+"laying"   
+
+
 
 The measurements on the mean and standard deviation for each measurement are contained in the columns with names ending with std() or mean() but not meanfreq().
 
