@@ -11,13 +11,14 @@ Getting and Cleaning Data Project
 
 1.3. Download run_analysis.R from github and place it in your working directory.
 
-1.5. Install the library data.table
+1.4. Install the library data.table
 
-1.4. Open and run the "run_analysis.R" in R
+1.5. Open and run the "run_analysis.R" in R
 
 
 
-2. What the code will do
+
+2. What the code will do (+ assumptions and rasoning about data)
 
 2.1. Loads the training and test data from folders train and test - files X_train.txt and X_test.txt
 
