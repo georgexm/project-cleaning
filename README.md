@@ -41,7 +41,7 @@ Getting and Cleaning Data Project
 
 2.9. Merges data.x, data.y and data.s in a single data frame called data
 
-2.10. Using grep to select the columns containing std() and mean(), but not meanfreq() - as all the measurements have mean() and only some of them have both mean() and meanfreq(), I decided that mean() is what is needed
+2.10. Using grep to select the columns containing std() and mean(), but not meanfreq()
 
 2.11. Extracts the columns containing std() and mean() in a new data frame - data.ms
 
