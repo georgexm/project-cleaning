@@ -4,6 +4,7 @@ project-cleaning
 Getting and Cleaning Data Project
 
 1. Preparation
+--------------
 
 1.1. Download the data from the data source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
@@ -19,6 +20,7 @@ Getting and Cleaning Data Project
 
 
 2. What the code will do (+ assumptions and rasoning about data)
+----------------------------------------------------------------
 
 2.1. Loads the training and test data from folders train and test - files X_train.txt and X_test.txt
 
