@@ -47,5 +47,5 @@ Getting and Cleaning Data Project
 
 2.12. Using lapply to calculate the means and create a data set of means by subject and activity - data.mean
 
-2.13. Write the data in a file tidy_mean.txt
+2.13. Write the data in a file tidy_mean.txt in the current directory
 
